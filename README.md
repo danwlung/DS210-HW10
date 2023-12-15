@@ -2,6 +2,8 @@
 
 This is my DS210 HW10 Fall 2023, 
 
+32/40
+
 − 4 pts
 Grading comment:
 There are no test cases
