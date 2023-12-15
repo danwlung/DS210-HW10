@@ -13,6 +13,7 @@ Grading comment:
 Detailed explanation of code missing
 
 Regrade Request:
+
 "I thought that my code comments were sufficient explanation of the code I was not sure how detailed it had to be"
 
 1. (30 points) In this question, the plan is to compute an approximation to PageRank.
