@@ -12,9 +12,12 @@ There are no test cases
 Grading comment:
 Detailed explanation of code missing
 
-Regrade Request:
+Regrade Request: +4
 
 "I thought that my code comments were sufficient explanation of the code I was not sure how detailed it had to be"
+
+Grading comment:
+"Given the simplicity of the code, the comments are generally thorough. Points returned"
 
 1. (30 points) In this question, the plan is to compute an approximation to PageRank.
 PageRank was developed as a method for ranking web pages. Originally, the Google
